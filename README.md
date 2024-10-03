@@ -6,8 +6,8 @@ Además, cuento con una sólida base en la industria de la construcción, lo que
 
 🚀 **Tecnologías y herramientas con las que trabajo:**
 - Lenguajes: Python, Java, C#, HTML, CSS, JavaScript, TypeScript
-- Bases de datos: MySQL, MongoDB
-- Frameworks y librerías: Node.js, NestJS
+- Bases de datos: MySQL, MongoDB ,PostgreSQL
+- Frameworks y librerías: Node.js, NestJS,Flask,JQuery, Ajax
 - Control de versiones: Git & GitHub
 - ERP: SINCO
 - Metodologías ágiles: Scrum
